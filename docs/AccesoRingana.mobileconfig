@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<false/>
+			<key>Icon</key>
+			<data>
+			iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQAAAAAUekxPAAAAvUlE
+			QVR42u3VoRaCMBTG8f8m52jTYzIQCDyA1XMMRB/DxzASjT4Sga7Z
+			ZDQaCbBrAFQYgWDRc9f2277du5UZoT8qiz/U1NTUfskCLlUkC2Yc
+			yQFEBDkX83LqJmIEkdICpBSHMnN7WbNqslswCSEndsSN2QyLAfdR
+			o56GX+tZekvNxPXtmvjZOwA5SyBvs2n3AAtsAIh41Pds6w6838h7
+			pL7ZsdlscJ/3BoZuk+8NcdduQDB7mdH/TU1N7c/sCcqKLf1mfa0B
+			AAAAAElFTkSuQmCC
+			</data>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>Ringana</string>
+			<key>PayloadDisplayName</key>
+			<string>Ringana</string>
+			<key>PayloadIdentifier</key>
+			<string>es.accesoweb.ringana.webclip</string>
+			<key>PayloadOrganization</key>
+			<string>Óscar · oscar.arcecad@gmail.com</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>6F1B7C2A-3D4E-4A59-9B1C-2E8A5D7C0F11</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://www.ringana.com/iniciar-sesion/?lang=es</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Creado por oscar.arcecad@gmail.com. Solo añade un icono de Ringana a la pantalla de inicio que abre la página de inicio de sesión. No instala aplicaciones, no accede a tus datos y no guarda contraseñas. Puedes quitarlo cuando quieras. Acceso independiente, no oficial.</string>
+	<key>PayloadDisplayName</key>
+	<string>Acceso Ringana</string>
+	<key>PayloadIdentifier</key>
+	<string>es.accesoweb.ringana.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Óscar · oscar.arcecad@gmail.com</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A3C9E1D4-7B25-4F68-8E0A-91D2B4C6F733</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
